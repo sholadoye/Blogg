@@ -3,7 +3,12 @@ import React from 'react'
 const Main = () => {
     return (
         <div className="page">
-            <img src="./images/anymag.png" alt="anymag"/>
+            <div className="anymag">
+                <img src="./images/anymag.png" alt="anymag"  className="any"/>
+
+                <img src="./images/magazine.png" alt="magazine" className="mag"/>
+            </div>
+            
         </div>
     )
 }

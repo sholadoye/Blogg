@@ -2,10 +2,32 @@
   box-sizing: border-box;
 }
 
-.page{
-  background-color: rgb(44,30,43);
-  height: 100vh;
-  width: 100vw;
-  overflow: hidden;
+.App{
+  
 }
 
+.anymag{
+  background-color: rgb(44,30,43);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100vh;
+  padding: 6rem;
+  padding-bottom: 0;
+}
+
+.any{
+  width: 25rem;
+  height: 5.5rem;
+}
+
+.mag{
+  position: absolute;
+  right: -25rem;
+  top: 0;
+  z-index: 10;
+}
+
+footer{
+
+}

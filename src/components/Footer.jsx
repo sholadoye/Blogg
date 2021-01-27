@@ -4,7 +4,9 @@ const Footer = () => {
     return (
 
         <footer>
-            <p>&copy; All rights reserved</p>
+            <span>
+                &copy; All rights reserved
+            </span>
         </footer>
     )
 }
