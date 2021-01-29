@@ -41,42 +41,42 @@ const Main = () => {
             </div>
 
             <div className="others">
-                <div className="top">
-                    <div className="clean">
-                        <img src="./images/clean-design.png" alt="design"/>
-                        <p>Clean Design</p>
-                    </div>
-                    <div className="fully">
-                        <img src="./images/fully-responsive.png" alt="fully"/>
-                        <p>Fully Responsive</p>
-                    </div>
-                    <div className="advance">
-                        <img src="./images/advance-typography.png" alt="advance"/>
-                        <p>Advance Typography</p>
-                    </div>
-                    <div className="gutenberg">
-                        <img src="./images/gutenberg-ready.png" alt="gutenberg" />
-                        <p>Gutenberg Ready</p>
-                    </div>
+
+                <div className="clean">
+                    <img src="./images/clean-design.png" alt="design"/>
+                    <p>Clean Design</p>
                 </div>
-                <div className="bottom">
-                    <div className="mail">
-                        <img src="./images/mail-chimp.png" alt="mail" className="act"/>
-                        <p>Mailchimp</p>
-                    </div>
-                    <div className="color">
-                        <img src="./images/color-customization.png" alt="color" className="act"/>
-                        <p>Color Customization</p>
-                    </div>
-                    <div className="one-click">
-                        <img src="./images/one-click.png" alt="one-click"/>
-                        <p>One click Demo Improt</p>
-                    </div>
-                    <div className="social">
-                        <img src="./images/social-integration.png" alt="social"/>
-                        <p>Social Integration</p>
-                    </div>
+                <div className="fully">
+                    <img src="./images/fully-responsive.png" alt="fully"/>
+                    <p>Fully Responsive</p>
                 </div>
+                <div className="advance">
+                    <img src="./images/advance-typography.png" alt="advance"/>
+                    <p>Advance Typography</p>
+                </div>
+                <div className="gutenberg">
+                    <img src="./images/gutenberg-ready.png" alt="gutenberg" />
+                    <p>Gutenberg Ready</p>
+                </div>
+            
+            
+                <div className="mail">
+                    <img src="./images/mail-chimp.png" alt="mail" className="act"/>
+                    <p>Mailchimp</p>
+                </div>
+                <div className="color">
+                    <img src="./images/color-customization.png" alt="color" className="col"/>
+                    <p>Color Customization</p>
+                </div>
+                <div className="one-click">
+                    <img src="./images/one-click.png" alt="one-click"/>
+                    <p>One click Demo Improt</p>
+                </div>
+                <div className="social">
+                    <img src="./images/social-integration.png" alt="social"/>
+                    <p>Social Integration</p>
+                </div>
+             
             </div>
 
         </div>

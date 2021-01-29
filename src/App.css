@@ -94,27 +94,3 @@
   margin-top: -2rem;
 }
 
-.others{
-  text-align: center;
-}
-
-.top,
-.bottom{
-  display: flex;
-  width: 70rem;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.act{
-  width: 3rem;
-  height: 3rem;
-}
-
-.others{
-  margin-top: 10rem;
-}
-
-.others p{
-  font-size: 1rem;  
-}
