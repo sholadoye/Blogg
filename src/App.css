@@ -94,3 +94,30 @@
   margin-top: -2rem;
 }
 
+.others{
+  display: flex;
+  margin-top: 9rem;
+  margin-left: 8rem;
+  width: 80vw;
+  justify-content: space-between;
+}
+
+.others p{
+  font-size: 1rem;
+}
+
+.one,
+.two,
+.three,
+.four{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  text-align: center;
+}
+
+.act{
+  width: 3rem;
+  height: 2.4rem;
+}
