@@ -84,8 +84,15 @@ const Main = () => {
                         <p>Social Integration</p>
                     </div>
                 </div>
-
             </div>
+
+            <p className="not">And that's  <span> not all</span></p>
+
+            <button className="buy">
+                Buy
+            </button>
+
+            <img src="./images/footer-image.jpg" alt="magazines" className="magz"/>
         </div>
     )
 }
