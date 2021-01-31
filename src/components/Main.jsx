@@ -99,6 +99,7 @@ const Main = () => {
 
                 <img src="./images/footer-image.jpg" alt="magazines" className="magz"/>
             </div>
+
         </div>
     )
 }
