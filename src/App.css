@@ -119,10 +119,44 @@
 
 .act{
   width: 3rem;
-  height: 2.4rem;
+  height: 2.6rem;
 }
 
 .not{
   font-size: 2rem;
+}
+
+.magz{
+  width: 80vw;
+}
+
+.all{
+  font-size: 3rem;
+  font-weight: 300;
+  
+}
+
+.all span{
+  font-size: 3rem;
+  font-weight: 600;
+  
+}
+
+.not{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 6rem;
+}
+
+.buy{
+  width: 8rem;
+  height: 3.2rem;
+  background: #F8537E;
+  border: none;
+  border-radius: 2px;
+  color: white;
+  font-family: sans-serif;
+  margin-bottom: 5rem;
 }
 

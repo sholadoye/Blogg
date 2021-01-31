@@ -86,13 +86,19 @@ const Main = () => {
                 </div>
             </div>
 
-            <p className="not">And that's  <span> not all</span></p>
+            
 
-            <button className="buy">
-                Buy
-            </button>
+            <div className="not">
 
-            <img src="./images/footer-image.jpg" alt="magazines" className="magz"/>
+                <p className="all">And that's
+                    <span> not all!</span>
+                </p>
+                <button className="buy">
+                    Buy Now
+                </button>
+
+                <img src="./images/footer-image.jpg" alt="magazines" className="magz"/>
+            </div>
         </div>
     )
 }
